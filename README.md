@@ -10,6 +10,10 @@ npm install
 npm run serve
 ```
 
+Probando VUE JS.
+
+Ejemplo basico de bindeo de valores
+
 ### Demo in Firebase
 
 https://vuebinding.web.app/
